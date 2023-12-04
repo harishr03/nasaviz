@@ -1,8 +1,10 @@
 ---
-layout: page
 title: "Astronauts Visualization"
 permalink: /
 ---
+
+## Astronauts Visualization
+
 by: Harish Ravisankar
 <iframe src="{{ '/assets/visualizations/interactive_map.html' | relative_url }}" width="100%" height="600" style="border:none;"></iframe>
 
