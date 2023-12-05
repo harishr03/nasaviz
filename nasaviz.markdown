@@ -6,6 +6,7 @@ permalink: /
 ## Astronauts Visualization
 
 by: Harish Ravisankar
+
 <iframe src="{{ '/assets/visualizations/interactive_map.html' | relative_url }}" width="100%" height="600" style="border:none;"></iframe>
 
 
@@ -17,7 +18,7 @@ To further understand the impact and reach of space missions, we present two add
 
 1. **Space Mission Timeline**
    - _Description of the timeline visualization_
-   - ![Space Mission Timeline](/assets/images/Space-Exploration-Timeline.png)
+   - ![Space Mission Timeline]({{ '/assets/images/Space-Exploration-Timeline.png' | relative_url }})
    - _Source: [NASA Space Missions](http://www.spaceopedia.com/space-exploration/exploration-timeline/)_
 
 2. **Gender Diversity in Space**

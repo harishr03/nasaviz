@@ -21,10 +21,8 @@
 title: "Journey Through Space: The Astronauts' Story"
 description: >- 
   An interactive exploration of astronauts and their journeys into space. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/nasaviz" # the subpath of your site, e.g. /blog
+url: "https://harishr03.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
