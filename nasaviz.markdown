@@ -13,6 +13,9 @@ by: Harish Ravisankar
 ### Exploring the Unknown: Interactive Map
 The above interactive map showcases the global distribution of astronauts by country. Hover over each country to see the number of astronauts it has contributed to space exploration.
 
+### Understanding the Visuzalization
+At the heart of the presentation is an interactive visualization crafted using Plotly, a cutting-edge tool that brings data to life through engaging and dynamic graphics. This visualization not only serves as a visual representation of data but also invites users to explore and interact with the information in a more meaningful way. By leveraging Plotly's robust capabilities, we've transformed static data about astronauts and their missions into an immersive experience. Users can delve into specific details, uncover patterns, and gain insights that might be overlooked in traditional presentations. The interactive nature of this visualization allows for a personalized exploration, where each hover provides new layers of understanding. This approach exemplifies how modern data visualization techniques can make complex data more accessible and engaging, fostering a deeper appreciation and understanding of the stories behind the numbers.
+
 ## Contextual Visualizations
 To further understand the impact and reach of space missions, we present two additional visualizations:
 
