@@ -52,7 +52,7 @@ The timeline of space missions, another key aspect of our visualization, chronic
 
 ## Further Analysis
 For those interested in the analytical process behind these visualizations, you can find our Jupyter notebooks here:
-- [Link to Jupyter Notebook for Interactive Map Analysis](/path/to/notebook)
+- [Link to Jupyter Notebook for Interactive Map Analysis](/assets/viznotebook/Untitled-1.ipynb)
 
 ---
 
